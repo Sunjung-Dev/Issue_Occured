@@ -2,9 +2,9 @@
 
 dataframe -> json 형태로 변환하기 
 
-'''
-df = df.to_json() 
-'''
+
+    df = df.to_json() 
+
   
 이렇게 변환할 경우 row 를 기준으로 저장되게 됨. 
 
